@@ -1,0 +1,19 @@
+Package: portlandCrashes2018
+Title: Portland Car Crashes 2018
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Gabe",
+           family = "Friend",
+           role = c("aut", "cre"),
+           email = "gabfriend@reed.edu")
+    person(given = "Timothy",
+           family = "Shinners",
+           role = c("aut", "cre"),
+           email = "shinnert@reed.edu")
+Description: What the package does (one paragraph).
+License: Public Domain 
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Reed-Statistics/portlandCrashes2018
+BugReports: https://github.com/Reed-Statistics/portlandCrashes2018/issues
+RoxygenNote: 7.0.2
